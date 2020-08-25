@@ -1,2 +1,2 @@
-# Creating_and_querying_db's_in_MySQL
-This was done alongside a course in MySQL and this is also my source of data.
+# MySQL_fundamentals
+This is a collection of MySQL code where I have created databases and queried them. This was completed alongside a MySQL course on Udemy.
